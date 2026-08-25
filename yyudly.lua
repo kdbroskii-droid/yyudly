@@ -956,7 +956,7 @@ function yyudly:CreateWindow(options)
     return Window
 end
 
-return yyudl    task.spawn(function()
+return yyudly    
         pcall(Callback, ...)
     end)
 end
